@@ -1,2 +1,2 @@
 # odeio_matematica
-Algumas coisinhas de Mate, sdds inclusive
+Algumas coisinhas de Mate
